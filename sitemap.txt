@@ -37,14 +37,11 @@ http://maxpatte.com/lightworks/double-dimension/index.html
 http://maxpatte.com/lightworks/index.html
 http://maxpatte.com/lightworks/infinite-gaze/index.html
 http://maxpatte.com/lightworks/juno/index.html
-http://maxpatte.com/lightworks/mirror-me/index.html
 http://maxpatte.com/lightworks/need-electric/index.html
 http://maxpatte.com/lightworks/night-call/index.html
 http://maxpatte.com/lightworks/no-ordinary-world/index.html
 http://maxpatte.com/lightworks/planet-electric/index.html
 http://maxpatte.com/lightworks/sanctuary/index.html
-http://maxpatte.com/lightworks/solitary-daze/index.html
-http://maxpatte.com/lightworks/sundowna/index.html
 http://maxpatte.com/lightworks/the-magic/index.html
 http://maxpatte.com/lightworks/the-xx/index.html
 http://maxpatte.com/lightworks/this-is-nowhere/index.html
@@ -52,7 +49,6 @@ http://maxpatte.com/lightworks/too-much-love/index.html
 http://maxpatte.com/lightworks/transitions/index.html
 http://maxpatte.com/lightworks/ultimate-miami/index.html
 http://maxpatte.com/lightworks/untitled-v3-13/index.html
-http://maxpatte.com/lightworks/venice-beach/index.html
 http://maxpatte.com/lightworks/vision-collision/index.html
 http://maxpatte.com/lightworks/vision-of-love/index.html
 http://maxpatte.com/press/index.html
